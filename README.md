@@ -1,4 +1,4 @@
-1)
+Question 1)
 
 1. Arithmetic Operators
 
@@ -22,41 +22,42 @@
 
 
 
-2) 
+Question 2) 
 
 1. Arithmetic Operators
-let x = 5 + 5;
 
-let i = 15 + 5 * 8;
+i. let x = 5 + 5;
+
+11. let i = 15 + 5 * 8;
 
 2) Assignment Operators
 
-let a = 5;
+i. let a = 5;
 
-let sum = 0;
-let num = 7;
+ii. let sum = 0;
+    let num = 7;
 
-sum += num;
+    sum += num;
 
 3) Comparison Operators
 
 let x = 5;
 let i = 3;
 
-console.log(i == x);
-console.log(i > x);
+i. console.log(i == x);
+ii. console.log(i > x);
 
 4) Logical Operators
 
 let age = 18;
 let stateOfOrigin = 'Lagos';
 
-(age >=18 && stateOfOrigin === 'Lagos') ? console.log('You are a Lagosian') : console.log('Invalid state of origin')
+i. (age >=18 && stateOfOrigin === 'Lagos') ? console.log('You are a Lagosian') : console.log('Invalid state of origin')
 
 let gender = 'Male';
 let music = 'ROck';
 
-(gender === 'Male' || music === 'Rock')  ? console.log('You are a Rockstar') : console.log('You lack taste')
+ii.  (gender === 'Male' || music === 'Rock')  ? console.log('You are a Rockstar') : console.log('You lack taste')
 
 
 5) Bitwise Operators
@@ -64,17 +65,21 @@ let music = 'ROck';
 let a = 12; 
 let  b = 25; 
 
-result = a & b; 
-console.log(result); // 8
+// bitwise AND operator example
+i. result = a & b; 
+   console.log(result);
 
 // bitwise OR operator example
-let a = 12; 
-let  b = 25; 
+ii. let a = 12; 
+    let  b = 25; 
 
-result = a | b; 
-console.log(result); // 29
+    result = a | b; 
+    console.log(result);
 
 
 
-4)
+Question 4)
 
+1
+8
+15
